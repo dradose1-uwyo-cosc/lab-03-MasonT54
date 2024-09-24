@@ -1,12 +1,12 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Mason Turner]
+## [Assignment #2]
+## [Submission date: 09/23/24]
 ## Worked with/sources 
-* example
-* example
+* TA
+* TA
 * example
 * example
 ## Project Quirks/ Things that don't work
-* example
+* Everything worked well
 * example
 * example
